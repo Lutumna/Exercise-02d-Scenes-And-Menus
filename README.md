@@ -1,22 +1,13 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02-SpaceShooter
 
-Exercise for MSCH-C220
-
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
-
+# Project 2 Space Shooter
+9/28/2024
+Created a space shooter using the assignments as a basis.
 ## Implementation
-
-Created using [Unity 2022.3.45f](https://unity.com)
-
-Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
-
-The explosion spritesheet was released into the public domain by [StumpyStrust](https://opengameart.org/content/explosion-sheet)
-
+Used assignments as the base for this project. I found extra assets only on kenney.nl which include a new asteroid, ship, and background sprite. The ship sprite changes based on difficulty. The asset package was called "space shooter redux." There are three different difficulties which include easy normal and hard. On easy the player has more lives, a smaller hit box, slower enemy, but gains less points. On normal, the player has less lives, two enemies, and gains more points. On hard the play has only one life, two faster enemies, a bigger hitbox, and gains more points. This was my attempt at creating different levels.
 ## References
-None
-
-## Future Development
-None
-
+Video Assignments
+## Username
+Lutumna
 ## Created by
-Nathan Mishler
+Daniyaal Hussain
